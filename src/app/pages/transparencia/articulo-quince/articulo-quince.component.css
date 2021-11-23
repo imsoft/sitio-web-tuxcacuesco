@@ -1,0 +1,12 @@
+li {
+    list-style: none;
+}
+
+a {
+    color: #2ea3d5;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+}
